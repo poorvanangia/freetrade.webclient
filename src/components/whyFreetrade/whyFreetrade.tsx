@@ -36,7 +36,7 @@ export class WhyFreetrade extends React.Component<IWhyFreetradeProps, {}> {
 			<div className='why-Wayve'>
 				<div>
 					<h2>
-						#why <span className='pink-coloring'>Freetrade</span>
+						#why <span className='pink-coloring'>Pleo</span>
 					</h2>
 				</div>
 				<Row>

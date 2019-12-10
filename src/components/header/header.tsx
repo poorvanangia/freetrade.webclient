@@ -25,14 +25,14 @@ export class Header extends React.Component<IHeaderProps, {}> {
 								Hello! My name is <strong><a href={Urls.ResumeLink} target='_blank' className='name'>Poorva Nangia</a></strong>
 							</h1>
 							<h3>
-								I would like to help <strong><span className='highlight'>Freetrade</span></strong> democratise <br /> 'Free-Trades'
-								as an <strong><span className='highlight'> International Expansions </span></strong> Associate
+								I would like to help <strong><span className='highlight'>Pleo</span></strong> democratise pain-free reimbursements
+								<span className='highlight'> </span> as a <strong><span className='highlight'>Founders Associate</span></strong>
 								<span className='blink'>|</span>
 							</h3>
 						</Col>
 					</Row>
 				</Container>
-			</Jumbotron>
+			</Jumbotron >
 		);
 	}
 }
